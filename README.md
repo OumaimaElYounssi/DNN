@@ -1,1 +1,1 @@
-# DNN
+# In this project, I worked with two datasets: NYSE stock price data and a predictive maintenance dataset. The primary goal was to predict stock prices and explore predictive maintenance insights. Throughout the project, I gained valuable experience in various aspects, including Exploratory Data Analysis (EDA) and model optimization.
